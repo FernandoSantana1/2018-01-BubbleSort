@@ -1,0 +1,10 @@
+C:\Users\fernando\OneDrive\Visual Studio\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe.config
+C:\Users\fernando\OneDrive\Visual Studio\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe
+C:\Users\fernando\OneDrive\Visual Studio\Bubblesort\Bubblesort\bin\Debug\Bubblesort.pdb
+C:\Users\fernando\OneDrive\Visual Studio\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csprojAssemblyReference.cache
+C:\Users\fernando\OneDrive\Visual Studio\Bubblesort\Bubblesort\obj\Debug\Bubblesort.Form1.resources
+C:\Users\fernando\OneDrive\Visual Studio\Bubblesort\Bubblesort\obj\Debug\Bubblesort.Properties.Resources.resources
+C:\Users\fernando\OneDrive\Visual Studio\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.GenerateResource.cache
+C:\Users\fernando\OneDrive\Visual Studio\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\fernando\OneDrive\Visual Studio\Bubblesort\Bubblesort\obj\Debug\Bubblesort.exe
+C:\Users\fernando\OneDrive\Visual Studio\Bubblesort\Bubblesort\obj\Debug\Bubblesort.pdb
